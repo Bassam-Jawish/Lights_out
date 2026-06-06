@@ -72,30 +72,3 @@ lib/
 videos/
 └── demo.mp4                           # App demo video
 ```
-
-## Getting Started
-
-### Prerequisites
-
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (Dart `>=3.0.6`)
-- Android Studio / Xcode / VS Code with Flutter extensions (for mobile builds)
-
-### Installation
-
-```bash
-git clone https://github.com/Bassam-Jawish/Lights_out.git
-cd Lights_out
-flutter pub get
-```
-
-### Run the App
-
-```bash
-flutter run
-```
-
-Connect a device or start an emulator/simulator before running. The app is locked to **portrait** orientation.
-
-## License
-
-This project is open source. Feel free to use and modify it for learning or personal projects.
